@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"export"
+			],
+			[
+				"git",
+				"git_prompt_info"
+			],
+			[
+				"sv",
+				"svn_prompt_info"
+			],
+			[
+				"RP",
+				"RPROMPT"
+			],
+			[
+				"st",
+				"String"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.zshrc",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.oh-my-zsh/lib/aliases.zsh",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.oh-my-zsh/themes/robbyrussell copy.zsh-theme",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.oh-my-zsh/themes/robbyrussell.zsh-theme",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.oh-my-zsh/themes/3den.zsh-theme",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/.oh-my-zsh/custom/mount.zsh",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/untitled.sublime-workspace",
+		"/Users/brothell/Dropbox/Useful/OhMyZSH_zaloha/untitled.sublime-project",
+		"/Users/brothell/ohmyzsh.sublime-project",
+		"/Users/brothell/.zshrc",
+		"/Users/brothell/.oh-my-zsh/lib/directories.zsh",
+		"/Users/brothell/.oh-my-zsh/themes/robbyrussell copy.zsh-theme",
+		"/Users/brothell/.oh-my-zsh/lib/aliases.zsh",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/mapping/zamestnanec.hbm.xml",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354020595/SVN",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/DB skripty/.,",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/DB skripty/fillTables.sql",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354020456/SVN",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354020351/SVN",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/DB skripty/createTables.sql",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354020248/SVN",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354020202/SVN",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354020104/SVN",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/JidloDAO.java",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354019852/SVN",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/PolozkaDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/RezervaceStulDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/StulDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/RezervaceDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/UcetDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/UcetJidloDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/ZamestnanecDAO.java",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354019818/SVN",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354019425/SVN",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/UcetPitiDAO.java",
+		"/var/folders/mb/52lw8m0j3f3fxcpfkcrhrqp80000gn/T/sublime-svn-1354017807/SVN",
+		"/Users/brothell/Library/Application Support/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/ZamestnanecRezervaceDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO/ObjektDAO.java",
+		"/Users/brothell/Dropbox/5. Semestr/Projekt/Zdroje/Zdroje.txt",
+		"/Users/brothell/.oh-my-zsh/oh-my-zsh.sh",
+		"/Users/brothell/batcharge.py",
+		"/Users/brothell/.oh-my-zsh/themes/robbyrussell.zsh-theme",
+		"/Users/brothell/Downloads/batery.py",
+		"/Users/brothell/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyDAO,/Users/brothell/Dropbox/5. Semestr/USI/AllTable/AllTable/Implementace/AllTable/src/model/objektyMODEL",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"red",
+			"prom",
+			"rn",
+			"Boolean",
+			"Boolen",
+			"Boole",
+			"b",
+			"Boolean"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"boolean",
+			"boole"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ro",
+				".oh-my-zsh/themes/robbyrussell.zsh-theme"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
